@@ -1,0 +1,29 @@
+1. Que diferencia hay entre un igual ( = ) y un doble ( == )
+
+R/= el (=) no sirve para asignacion.
+    el (==) nos sirve para igualar.
+
+
+2. Cuales son los tipos de datos básico de java
+
+R/= int 
+    double
+    string
+    float
+    boolean
+    char
+
+
+
+3. Quién es la empresa que actualmente se encarga de mantener el desarrollo de
+java
+
+
+R/= a partir de 2010 JAVA fue adquirida y administrada por ORACLE
+
+
+4. En qué otros campos se puede utilizar java para crear software
+
+
+
+R/= java se puede utilizar en procesadores de texto asi como en hojas de calculo,
